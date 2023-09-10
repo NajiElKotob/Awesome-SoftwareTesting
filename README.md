@@ -1,2 +1,2 @@
-# Awesome-SoftwareTesting
-Software Testing and QA
+# Software Testing and QA
+
