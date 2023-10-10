@@ -21,4 +21,5 @@
 
 #### IL
 * [SharpLab](https://sharplab.io/) - sharplab.io
+* [C# IL Viewer (Joseph Woodward)](https://marketplace.visualstudio.com/items?itemName=josephwoodward.vscodeilviewer) - marketplace.visualstudio.com | A C# IL Viewer for Visual Studio Code
 
