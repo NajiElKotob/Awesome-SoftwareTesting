@@ -37,5 +37,6 @@
 * [dotnet](https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet)
   *  run
      *  e.g., dotnet run --urls "https://localhost:5099"
+     *  netstat -ano | findstr :5099 (Get the Process ID 'PID' and check the Task Manager)
 
 
