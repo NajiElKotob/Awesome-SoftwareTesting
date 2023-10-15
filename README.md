@@ -3,9 +3,7 @@
 
 ## Tools
 * [Selenium](https://www.selenium.dev/) - selenium.dev
-* [Insomnia](https://insomnia.rest/) - Debug APIs like a human, not a robot
-* [Postman](https://www.getpostman.com/) - The Collaboration Platform for API Development
-* [curl](https://curl.haxx.se/) - command line tool and library for transferring data with URLs
+
 * [Testing Tools for .NET Developers](https://www.infoq.com/research/dotnet-testing-tools/) - infoq.com
 
 ### CMD
@@ -13,9 +11,11 @@
 
 
 ## API
-### Testing
-* [API testing (Postman)](https://www.postman.com/api-platform/api-testing/) - postman.com
-* curl 
+### Tools
+* [Insomnia](https://insomnia.rest/) - Debug APIs like a human, not a robot
+* [Postman](https://www.getpostman.com/) - The Collaboration Platform for API Development
+  * [API testing (Postman)](https://www.postman.com/api-platform/api-testing/) - postman.com
+* [curl](https://curl.haxx.se/) - command line tool and library for transferring data with URLs
 * Invoke-WebRequest
 
 -----
