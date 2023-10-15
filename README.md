@@ -11,19 +11,20 @@
 ### CMD
 * [Windows Terminal](https://github.com/microsoft/terminal) - Microsoft
 
-## dotNET
-* [NUnit vs. XUnit vs. MSTest: Comparing Unit Testing Frameworks In C#](https://www.lambdatest.com/blog/nunit-vs-xunit-vs-mstest/) - lambdatest.com
-* [dotnet](https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet)
-  *  run
-     *  e.g., dotnet run --urls "https://localhost:5099"
+
 ## API
 ### Testing
 * [API testing (Postman)](https://www.postman.com/api-platform/api-testing/) - postman.com
 * curl 
 * Invoke-WebRequest
 
+-----
+
 ### dotNET
 * [Testing tools in Visual Studio](https://learn.microsoft.com/en-us/visualstudio/test/) - microsoft.com
+
+#### Unit Testing
+* [NUnit vs. XUnit vs. MSTest: Comparing Unit Testing Frameworks In C#](https://www.lambdatest.com/blog/nunit-vs-xunit-vs-mstest/) - lambdatest.com
 
 #### IL
 * [SharpLab](https://sharplab.io/) - sharplab.io
@@ -32,5 +33,9 @@
 
 #### Obfuscation
 
+#### Command Line Interface (CLI)
+* [dotnet](https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet)
+  *  run
+     *  e.g., dotnet run --urls "https://localhost:5099"
 
 
