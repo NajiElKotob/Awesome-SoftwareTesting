@@ -18,6 +18,9 @@
 * [curl](https://curl.haxx.se/) - command line tool and library for transferring data with URLs
 * Invoke-WebRequest
 
+### Blogs
+* [Best ways to test system functionality](https://twitter.com/alexxubyte/status/1714301732174660078) - Alex Xu
+
 -----
 
 ### dotNET
