@@ -5,6 +5,7 @@
 * [Selenium](https://www.selenium.dev/) - selenium.dev
 * [Testing Tools for .NET Developers](https://www.infoq.com/research/dotnet-testing-tools/) - infoq.com
 * [Sysinternals](https://learn.microsoft.com/en-us/sysinternals/) - microsoft.com
+* [How to create an automated task using Task Scheduler on Windows 10](https://www.windowscentral.com/how-create-automated-task-using-task-scheduler-windows-10) - windowscentral.com
 
 ### CMD
 * [Windows Terminal](https://github.com/microsoft/terminal) - Microsoft
