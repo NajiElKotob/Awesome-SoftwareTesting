@@ -39,8 +39,10 @@
 
 #### Command Line Interface (CLI)
 * [dotnet](https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet)
-  *  run
-     *  e.g., dotnet run --urls "https://localhost:5099"
-     *  netstat -ano | findstr :5099 (Get the Process ID 'PID' and check the Task Manager)
+  *  Help: dotnet --help
+  *  Version: dotnet --version
+  *  Run
+     *  Web or API: dotnet run --urls "https://localhost:5099"
+        *  netstat -ano | findstr :5099 (Get the Process ID 'PID' and check the Task Manager)
 
 
