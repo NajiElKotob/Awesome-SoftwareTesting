@@ -3,8 +3,8 @@
 
 ## Tools
 * [Selenium](https://www.selenium.dev/) - selenium.dev
-
 * [Testing Tools for .NET Developers](https://www.infoq.com/research/dotnet-testing-tools/) - infoq.com
+* [Sysinternals](https://learn.microsoft.com/en-us/sysinternals/) - microsoft.com
 
 ### CMD
 * [Windows Terminal](https://github.com/microsoft/terminal) - Microsoft
