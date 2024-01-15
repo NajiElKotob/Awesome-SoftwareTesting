@@ -51,5 +51,9 @@
 * Clear caches: dotnet nuget locals all --clear
 
 -----
+### Exams
+[ISTQB](https://www.istqb.org) - istqb.org
+
+-----
 ## References
 * [List of Automated Testing (TDD/BDD/ATDD/SBE) Tools and Frameworks for .NET](https://github.com/dariusz-wozniak/List-of-Testing-Tools-and-Frameworks-for-.NET/blob/master/README.md) - Dariusz Woźniak
