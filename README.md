@@ -51,6 +51,11 @@
 * Clear caches: dotnet nuget locals all --clear
 
 -----
+
+### Videos
+* [Software Testing (Yehia Tech)](https://www.youtube.com/watch?v=9NcvjKX-ySk) - Arabic
+  
+-----
 ### Exams
 [ISTQB](https://www.istqb.org) - istqb.org
 
