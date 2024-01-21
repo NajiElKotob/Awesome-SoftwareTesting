@@ -9,6 +9,7 @@
 
 ### CMD
 * [Windows Terminal](https://github.com/microsoft/terminal) - Microsoft
+* [Basics of Batch Scripting](https://www.geeksforgeeks.org/basics-of-batch-scripting/) - geeksforgeeks.org
 
 
 ## API
