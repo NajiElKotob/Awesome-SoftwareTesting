@@ -16,7 +16,9 @@
 * [Insomnia](https://insomnia.rest/) - Debug APIs like a human, not a robot
 * [Postman](https://www.getpostman.com/) - The Collaboration Platform for API Development
   * [API testing (Postman)](https://www.postman.com/api-platform/api-testing/) - postman.com
-* [curl](https://curl.haxx.se/) - command line tool and library for transferring data with URLs
+* curl
+  - [curl](https://curl.haxx.se/) - curl.haxx.se | command line tool and library for transferring data with URLs
+  - [curl tutorial](https://curl.se/docs/tutorial.html) - curl.se
 * Invoke-WebRequest
 
 ### Blogs
