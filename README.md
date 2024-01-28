@@ -44,7 +44,9 @@
 * [C# IL Viewer (Joseph Woodward)](https://marketplace.visualstudio.com/items?itemName=josephwoodward.vscodeilviewer) - marketplace.visualstudio.com | A C# IL Viewer for Visual Studio Code
 * [ILSpy](https://github.com/icsharpcode/ILSpy) - ILSpy is the open-source .NET assembly browser and decompiler.
 
+
 ### Obfuscation
+* [Dotfuscator (PreEmptive)](https://www.preemptive.com/products/dotfuscator/) - preemptive.com | Professional-grade Application Protection
 
 ### Command Line Interface (CLI)
 * [dotnet](https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet)
