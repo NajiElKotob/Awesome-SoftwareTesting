@@ -11,6 +11,8 @@
 
 ### dotNET
 * [Testing Tools for .NET Developers](https://www.infoq.com/research/dotnet-testing-tools/) - infoq.com
+* [List of Automated Testing (TDD/BDD/ATDD/SBE) Tools and Frameworks for .NET](https://github.com/dariusz-wozniak/List-of-Testing-Tools-and-Frameworks-for-.NET/blob/master/README.md) - Dariusz Woźniak
+* [Testing tools in Visual Studio](https://learn.microsoft.com/en-us/visualstudio/test/) - microsoft.com
 
 ### CMD and OS
 * [Sysinternals](https://learn.microsoft.com/en-us/sysinternals/) - microsoft.com
@@ -26,23 +28,6 @@
   - [curl](https://curl.haxx.se/) - curl.haxx.se | command line tool and library for transferring data with URLs
   - [curl tutorial](https://curl.se/docs/tutorial.html) - curl.se
 * Invoke-WebRequest
-
-### UI
-* [Selenium](https://www.selenium.dev/) - selenium.dev
-
-### Tips and Tricks
-* UDL
-* Task Manager
-
------
-
-## Testing tools in .NET
-
-### Visual Studio
-* [Testing tools in Visual Studio](https://learn.microsoft.com/en-us/visualstudio/test/) - microsoft.com
-
-### Unit Testing
-* [NUnit vs. XUnit vs. MSTest: Comparing Unit Testing Frameworks In C#](https://www.lambdatest.com/blog/nunit-vs-xunit-vs-mstest/) - lambdatest.com
 
 ### IL
 * [SharpLab](https://sharplab.io/) - sharplab.io
@@ -63,6 +48,13 @@
 * [NuGet](https://www.nuget.org/) - nuget.org
 * A global packages folder (%userprofile%\.nuget\packages on Windows and ~/.nuget/packages on macOS/Linux) is used to store the installed packages.
 * Clear caches: dotnet nuget locals all --clear
+  
+### UI
+* [Selenium](https://www.selenium.dev/) - selenium.dev
+
+### Tips and Tricks
+* UDL
+* Task Manager
 
 -----
 
@@ -80,6 +72,4 @@
 ### Exams
 * [ISTQB](https://www.istqb.org) - istqb.org
 
------
-## References
-* [List of Automated Testing (TDD/BDD/ATDD/SBE) Tools and Frameworks for .NET](https://github.com/dariusz-wozniak/List-of-Testing-Tools-and-Frameworks-for-.NET/blob/master/README.md) - Dariusz Woźniak
+
