@@ -28,6 +28,7 @@
 * [Windows Terminal](https://github.com/microsoft/terminal) - Microsoft
 * [Basics of Batch Scripting](https://www.geeksforgeeks.org/basics-of-batch-scripting/) - geeksforgeeks.org
 * [How to create an automated task using Task Scheduler on Windows 10](https://www.windowscentral.com/how-create-automated-task-using-task-scheduler-windows-10) - windowscentral.com
+* [Automate administrative tasks by using PowerShell (Microsoft Learn)](https://learn.microsoft.com/en-us/training/paths/powershell/) - learn.microsoft.com
 
 ### API
 * [Insomnia](https://insomnia.rest/) - Debug APIs like a human, not a robot
