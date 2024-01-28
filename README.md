@@ -1,14 +1,18 @@
 # Software Testing and QA
 {Awesome Works in Progress}
 
+
 ## Fundamentals of Testing
 ### What is Testing?
 ### Why is Testing Necessary?
 ### Testing Principles
 ### Test Activities, Testware and Test Roles
 ### Essential Skills and Good Practices in Testing
-
-
+## Testing Throughout the Software Development Lifecycle
+## Static Testing
+## Test Analysis and Design
+## Managing the Test Activities
+## Test Tools
 
 -----
 
