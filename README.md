@@ -67,7 +67,7 @@
 
 -----
 
-## Blogs
+## Blogs and Articles
 * [Best ways to test system functionality](https://twitter.com/alexxubyte/status/1714301732174660078) - Alex Xu
 * [Software Testing Tips: 101 Expert Tips, Tricks and Strategies for Better, Faster Testing and Leveraging Results for Success](https://stackify.com/software-testing-tips/) - stackify.com
   
