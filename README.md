@@ -46,6 +46,7 @@
 
 
 ### Obfuscation
+* [.NET Obfuscator (Awesome List)](https://github.com/NotPrab/.NET-Obfuscator) - NotPrab (GitHub)
 * [Dotfuscator (PreEmptive)](https://www.preemptive.com/products/dotfuscator/) - preemptive.com | Professional-grade Application Protection
 
 ### Command Line Interface (CLI)
