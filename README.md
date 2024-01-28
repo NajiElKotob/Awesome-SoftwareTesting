@@ -1,6 +1,12 @@
 # Software Testing and QA
 {Awesome Works in Progress}
 
+## Fundamentals of Testing
+* [Top 5 SDLC (Software Development Life Cycle) Methodologies](https://www.geeksforgeeks.org/top-5-sdlcsoftware-developement-life-cycle-methodologies/) - geeksforgeeks.org
+
+
+-----
+
 ## Tools
 
 ### dotNET
