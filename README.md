@@ -2,7 +2,12 @@
 {Awesome Works in Progress}
 
 ## Fundamentals of Testing
-* [Top 5 SDLC (Software Development Life Cycle) Methodologies](https://www.geeksforgeeks.org/top-5-sdlcsoftware-developement-life-cycle-methodologies/) - geeksforgeeks.org
+### What is Testing?
+### Why is Testing Necessary?
+### Testing Principles
+### Test Activities, Testware and Test Roles
+### Essential Skills and Good Practices in Testing
+
 
 
 -----
