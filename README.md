@@ -15,6 +15,8 @@
 ## Managing the Test Activities
 ## Test Tools
 
+## Testing Throughout the Software Development Lifecycle
+
 -----
 
 ## Tools
