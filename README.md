@@ -81,6 +81,7 @@
 ### Microsoft Learn 
 * [Use Visual Studio for modern development](https://learn.microsoft.com/en-us/training/paths/visual-studio/)
 * [Test and publish Progressive Web Apps (PWAs) for Microsoft Store](https://learn.microsoft.com/en-us/training/modules/publish-pwa-microsoft-store/)
+* [Debug C# console applications (Get started with C#, Part 6)](https://learn.microsoft.com/en-us/training/paths/get-started-c-sharp-part-6/)
 
 ### Blogs and Articles
 * [Best ways to test system functionality](https://twitter.com/alexxubyte/status/1714301732174660078) - Alex Xu
