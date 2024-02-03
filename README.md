@@ -70,7 +70,10 @@
 * [NuGet](https://www.nuget.org/) - nuget.org
 * A global packages folder (%userprofile%\.nuget\packages on Windows and ~/.nuget/packages on macOS/Linux) is used to store the installed packages.
 * Clear caches: dotnet nuget locals all --clear
-  
+#### Libraries
+* [Moq](https://github.com/devlooped/moq) - Kzu | The most popular and friendly mocking library for .NET
+
+ 
 ### UI
 * [Selenium](https://www.selenium.dev/) - selenium.dev
 
