@@ -40,6 +40,13 @@
 * Dennis Doomen
   - [Fluent Assertions](https://fluentassertions.com/) - fluentassertions.com
 
+### Reporting
+#### Best Practices for Reporting
+* Automate Where Possible: Automate test execution and reporting in your CI/CD pipeline to ensure tests are run regularly and results are consistently reported.
+* Use Detailed Assertions: Write detailed assertion messages to make it easier to understand why a test failed without diving into the code.
+* Review Test Reports Regularly: Incorporate test report reviews into your development process to identify and address issues early.
+* Share Results: Ensure test results are accessible to all stakeholders (developers, testers, managers) to facilitate communication and decision-making.
+
 -----
 
 ## Tools
