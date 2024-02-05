@@ -12,6 +12,13 @@
 * Ensures Reliability and Security: Testing checks for reliability, security, and high performance, which are critical for user trust and safety.
 * Facilitates Updates and Enhancements: Makes it easier to add new features or make changes without breaking existing functionality.
 ### Testing Principles
+* Testing shows the presence, not the absence of defects.
+* Exhaustive testing is impossible.
+*  Early testing saves time and money.
+*  Defects cluster together.
+*  Tests wear out.
+*  Testing is context dependent.
+*  Absence-of-defects fallacy.
 ### Test Activities, Testware and Test Roles
 ### Essential Skills and Good Practices in Testing
 ## Testing Throughout the Software Development Lifecycle
