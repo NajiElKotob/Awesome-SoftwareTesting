@@ -99,9 +99,10 @@
 * [Debug C# console applications (Get started with C#, Part 6)](https://learn.microsoft.com/en-us/training/paths/get-started-c-sharp-part-6/)
 
 ### Blogs and Articles
+* [Top 5 SDLC(Software Development Life Cycle ) Methodologies](https://www.geeksforgeeks.org/top-5-sdlcsoftware-developement-life-cycle-methodologies/?ref=lbp) - geeksforgeeks.org
 * [Best ways to test system functionality](https://twitter.com/alexxubyte/status/1714301732174660078) - Alex Xu
 * [Software Testing Tips: 101 Expert Tips, Tricks and Strategies for Better, Faster Testing and Leveraging Results for Success](https://stackify.com/software-testing-tips/) - stackify.com
-  
+
 -----
 
 ### Videos
