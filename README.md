@@ -120,6 +120,7 @@
 * [Software Testing – Bug vs Defect vs Error vs Fault vs Failure](https://www.geeksforgeeks.org/software-testing-bug-vs-defect-vs-error-vs-fault-vs-failure/) - geeksforgeeks.org 
 * [Best ways to test system functionality](https://twitter.com/alexxubyte/status/1714301732174660078) - Alex Xu
 * [Software Testing Tips: 101 Expert Tips, Tricks and Strategies for Better, Faster Testing and Leveraging Results for Success](https://stackify.com/software-testing-tips/) - stackify.com
+* [What Is Software Testing? All the Basics You Need to Know](https://www.testim.io/blog/software-testing-basics/) - testim.io
 
 -----
 
