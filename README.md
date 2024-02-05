@@ -48,6 +48,7 @@
 * [Testing Tools for .NET Developers](https://www.infoq.com/research/dotnet-testing-tools/) - infoq.com
 * [List of Automated Testing (TDD/BDD/ATDD/SBE) Tools and Frameworks for .NET](https://github.com/dariusz-wozniak/List-of-Testing-Tools-and-Frameworks-for-.NET/blob/master/README.md) - Dariusz Woźniak
 * [Testing tools in Visual Studio](https://learn.microsoft.com/en-us/visualstudio/test/) ⭐ - microsoft.com
+* [VSTest.Console.exe](https://learn.microsoft.com/en-us/visualstudio/test/vstest-console-options?view=vs-2022)
 
 ### CMD and OS
 * [Sysinternals](https://learn.microsoft.com/en-us/sysinternals/) - microsoft.com
