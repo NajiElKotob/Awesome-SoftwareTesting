@@ -73,6 +73,9 @@
 ### Logging providers
 * [Logging providers in .NET](https://learn.microsoft.com/en-us/dotnet/core/extensions/logging-providers)
 
+### Performance and Load
+* [Performance and Load testing with k6 📺](https://www.youtube.com/watch?v=PYHZLCTC7i0) - dotNET
+  
 ### Obfuscation
 * [.NET Obfuscator (Awesome List)](https://github.com/NotPrab/.NET-Obfuscator) - NotPrab (GitHub)
 * [Dotfuscator (PreEmptive)](https://www.preemptive.com/products/dotfuscator/) - preemptive.com | Professional-grade Application Protection
