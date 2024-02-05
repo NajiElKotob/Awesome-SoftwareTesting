@@ -100,6 +100,7 @@
 
 ### Blogs and Articles
 * [Top 5 SDLC(Software Development Life Cycle ) Methodologies](https://www.geeksforgeeks.org/top-5-sdlcsoftware-developement-life-cycle-methodologies/?ref=lbp) - geeksforgeeks.org
+* [Bug Life Cycle in Software Development](https://www.geeksforgeeks.org/bug-life-cycle-in-software-development/) - geeksforgeeks.org
 * [Best ways to test system functionality](https://twitter.com/alexxubyte/status/1714301732174660078) - Alex Xu
 * [Software Testing Tips: 101 Expert Tips, Tricks and Strategies for Better, Faster Testing and Leveraging Results for Success](https://stackify.com/software-testing-tips/) - stackify.com
 
