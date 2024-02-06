@@ -132,6 +132,7 @@
 * [What Is Software Testing? All the Basics You Need to Know](https://www.testim.io/blog/software-testing-basics/) - testim.io
 * [Error, Defect, and Failure](https://www.toolsqa.com/software-testing/istqb/error-defect-failure/) - toolsqa.com
 * [7 Hidden Gems in Visual Studio 2017](https://devblogs.microsoft.com/visualstudio/7-hidden-gems-in-visual-studio-2017/) - devblogs.microsoft.com
+* [What is BDD? (Behavior-Driven Development)](https://www.browserstack.com/guide/what-is-bdd) - browserstack.com
   
 -----
 
