@@ -135,6 +135,7 @@
 * [Error, Defect, and Failure](https://www.toolsqa.com/software-testing/istqb/error-defect-failure/) - toolsqa.com
 * [7 Hidden Gems in Visual Studio 2017](https://devblogs.microsoft.com/visualstudio/7-hidden-gems-in-visual-studio-2017/) - devblogs.microsoft.com
 * [What is BDD? (Behavior-Driven Development)](https://www.browserstack.com/guide/what-is-bdd) - browserstack.com
+* [Top C# Testing Frameworks for every Developer](https://www.browserstack.com/guide/c-sharp-testing-frameworks) - browserstack.com
   
 -----
 
