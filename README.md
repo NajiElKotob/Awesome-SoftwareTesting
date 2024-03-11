@@ -5,6 +5,8 @@
 ## Fundamentals of Testing [(ISTQB)](https://www.istqb.org/certifications/certified-tester-foundation-level)
 ### What is Software Testing?
 `Software testing is the process of evaluating and verifying that a software application or program does what it is supposed to do. The goal is to identify any bugs or issues in the software so they can be fixed before the product is released to users.`
+* [What is software testing?](https://www.ibm.com/topics/software-testing) - ibm.com
+  
 ### Why is Testing Necessary?
 * Quality Assurance: Ensures the software meets quality standards and user requirements.
 * Detects Bugs Early: Identifies problems early in the development cycle, reducing the cost of fixing them.
