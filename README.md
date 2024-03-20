@@ -142,6 +142,10 @@
 ### Videos
 * [Software Testing (Yehia Tech)](https://www.youtube.com/watch?v=9NcvjKX-ySk) - Arabic
 * [ISTQB Foundation Level Certification Overview](https://www.youtube.com/playlist?list=PL8Ql2_5rYPjjQ62TYjQISsI3CMcxVfIUG) - Exactpro
+
+-----
+### Cases
+* [Commercial Bank of Ethiopia glitch lets customers withdraw millions](https://www.bbc.com/news/world-68599027) - bbc.com
   
 -----
 ### Certifications
