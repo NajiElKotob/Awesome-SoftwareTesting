@@ -23,11 +23,9 @@
 *  Absence-of-defects fallacy.
 ### Test Activities, Testware and Test Roles
 ### Essential Skills and Good Practices in Testing
-## Testing Throughout the Software Development Lifecycle
-## Static Testing
-## Test Analysis and Design
-## Managing the Test Activities
-## Test Tools
+
+
+-----
 
 ## Testing Throughout the Software Development Lifecycle
 ### Testing in the Context of a Software Development Lifecycle
@@ -50,6 +48,12 @@
 * Share Results: Ensure test results are accessible to all stakeholders (developers, testers, managers) to facilitate communication and decision-making.
 
 -----
+
+## Static Testing
+## Test Analysis and Design
+## Managing the Test Activities
+-----
+
 
 ## Tools
 
