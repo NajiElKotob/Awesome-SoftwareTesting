@@ -102,7 +102,9 @@
   *  Run
      *  Web or API: dotnet run --urls "https://localhost:5099"
         *  netstat -ano | findstr :5099 (Get the Process ID 'PID' and check the Task Manager)
-          
+### Unit Test
+* [C# Unit Test Generator](https://codingfleet.com/unit-test-generator/csharp/) - codingfleet.com
+  
 ### NuGet
 * [NuGet](https://www.nuget.org/) - nuget.org
 * A global packages folder (%userprofile%\.nuget\packages on Windows and ~/.nuget/packages on macOS/Linux) is used to store the installed packages.
