@@ -53,6 +53,8 @@
 ## Test Analysis and Design
 ## Managing the Test Activities
 -----
+## Gherkin
+* [Gherkin (Reference)](https://cucumber.io/docs/gherkin/reference) - cucumber.io
 
 ## BDD
 * [BDD (Behavior Driven Development) Framework: A Complete Tutorial](https://www.softwaretestinghelp.com/bdd-framework/) - softwaretestinghelp.com
