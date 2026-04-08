@@ -54,6 +54,10 @@
 ## Managing the Test Activities
 -----
 
+## BDD
+* [BDD (Behavior Driven Development) Framework: A Complete Tutorial](https://www.softwaretestinghelp.com/bdd-framework/) - softwaretestinghelp.com
+
+----
 
 ## Tools
 
